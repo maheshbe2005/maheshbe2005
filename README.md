@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am .NET and Azure Solution Architect, Technical Evangelist, Technology Expert, Trainer.
+I am .NET and Azure Solution Architect, Technical Evangelist, Technology Expert and Professional Trainer.
 
 Contact me on Social Handles:
 <br/>
