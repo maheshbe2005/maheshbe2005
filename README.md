@@ -18,12 +18,20 @@ Here are some ideas to get you started:
 I am .NET and Azure Solution Architect, Technical Evangelist, Technology Expert, Trainer.
 
 Contact me on Social Handles:
+<br/>
 LinkedIn
+<br/>
 https://www.linkedin.com/in/mahesh-kumar-71a7291b
+<br/>
 Facbook
+<br/>
 https://www.facebook.com/Mahesh701
+<br/>
 Twitter
+<br/>
 https://twitter.com/maheshbe2005
+
+<br/><br/><br/><br/>
 
 Blogs:
 https://www.linkedin.com/in/mahesh-kumar-71a7291b
