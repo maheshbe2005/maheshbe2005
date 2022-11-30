@@ -31,7 +31,7 @@ Twitter
 <br/>
 https://twitter.com/maheshbe2005
 
-<br/><br/>
+<br/>
 
 Blogs:
 https://www.linkedin.com/in/mahesh-kumar-71a7291b
