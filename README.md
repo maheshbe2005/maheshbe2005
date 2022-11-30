@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am .NET and Azure Solution Architect, Technical Evangelist, Technology Expert, Trainer.
+
+Contact me on Social Handles:
+LinkedIn
+https://www.linkedin.com/in/mahesh-kumar-71a7291b
+Facbook
+https://www.facebook.com/Mahesh701
+Twitter
+https://twitter.com/maheshbe2005
+
+Blogs:
+https://www.linkedin.com/in/mahesh-kumar-71a7291b
+
+
